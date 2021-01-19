@@ -1,4 +1,4 @@
-# bitkraken
+# bitkraken *DEPRECATED*
 ## For educational purposes only.
 Bitkraken but I accidentally deleted the old one. 😢
 Credit to HysMagus for keeping my original code so I could see how I did it. 👍🏻
